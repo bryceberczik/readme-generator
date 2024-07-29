@@ -20,9 +20,9 @@ To use this application, ensure that Node.js is installed on your machine. Follo
 ## Usage
 To generate a README.md file, follow these steps: Open the terminal and navigate to the project directory. Run the application by executing the, "node index.js" command on the intergrated terminal. Answer the prompted questions to provide information about your project.  Upon completion, a README.md file will be generated in the project directory.
 
-<img src="./images/terminal.png" alt="Opening integrated terminal" width="400">
-<img src="./images/node%20index.js.png" alt="Command line with node index.js" width="400">
-<img src="./images/finishes.png" alt="A finished product of the application" width="400">
+<img src="./src/images/terminal.png" alt="Opening integrated terminal" width="400">
+<img src="./src/images/node index.js.png" alt="Command line with node index.js" width="400">
+<img src="./src/images/finishes.png" alt="A finished product of the application" width="400">
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
