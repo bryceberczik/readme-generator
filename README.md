@@ -24,6 +24,8 @@ To generate a README.md file, follow these steps: Open the terminal and navigate
 <img src="./src/images/node index.js.png" alt="Command line with node index.js" width="400">
 <img src="./src/images/finishes.png" alt="A finished product of the application" width="400">
 
+https://github.com/user-attachments/assets/802853ee-38c9-40e3-b437-0629d7684d71
+
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
